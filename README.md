@@ -3,7 +3,7 @@ Script creado para registrar datos de una persona externa y usarlo como Secuestr
 
 # Instalacion
 
-git clome https://github.com/Krypton-Hacks/Prodigy.git
+git clone https://github.com/Krypton-Hacks/Prodigy.git
 
 cd Anonymous
 
